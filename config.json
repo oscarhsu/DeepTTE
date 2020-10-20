@@ -1,0 +1,17 @@
+{
+    "dist_gap_std": 0.0664725643694325,
+    "dist_gap_mean": 0.28625728761410896,
+    "time_gap_std": 17.938662596210808,
+    "time_gap_mean": 46.637783425146566,
+    "lngs_std": 0.04518595736811419,
+    "lngs_mean": 104.05838265282785,
+    "lats_std": 0.03841315686812674,
+    "lats_mean": 30.65272407532793,
+    "dist_std": 3.8609722327104445,
+    "dist_mean": 9.787526963281122,
+    "time_mean": 1557.59,
+    "time_std": 644.83,
+    "train_set": ["train_00", "train_01", "train_02", "train_03","train_04"],
+    "eval_set": ["testRemoveBeginLast"],
+    "test_set": ["testRemoveBeginLast"]
+}
